@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_todo_app_01/controllers/todo.dart';
-import 'package:flutter_todo_app_01/data/models/enums.dart';
+import 'package:flutter_todo_app_01/core/enums.dart';
 import 'package:flutter_todo_app_01/data/models/todo.dart';
 import 'package:flutter_todo_app_01/routes/routes.dart';
 import 'package:get/get.dart';

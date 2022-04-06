@@ -28,6 +28,12 @@
       "deviceId": "D7E05494-FF82-48C5-B7B6-0E2B1B428353"
     },
     {
+      "name": "iOS Simulator 2",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "72380EFD-3263-446F-9979-5BD7DA910DE8"
+    },
+    {
       "name": "Android Simulator",
       "request": "launch",
       "type": "dart",
@@ -37,7 +43,7 @@
   "compounds": [
     {
       "name": "All Simulators",
-      "configurations": ["Android Simulator", "iOS Simulator"]
+      "configurations": ["Android Simulator", "iOS Simulator", "iOS Simulator 2"]
     }
   ]
 }

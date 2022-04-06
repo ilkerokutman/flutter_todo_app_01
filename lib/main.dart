@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
       defaultTransition: Transition.native,
       theme: ThemeData(
         colorScheme: ColorScheme.fromSwatch(
-          primarySwatch: Colors.green,
+          primarySwatch: Colors.indigo,
         ),
       ),
     );

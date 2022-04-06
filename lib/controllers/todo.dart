@@ -1,4 +1,4 @@
-import 'package:flutter_todo_app_01/data/models/enums.dart';
+import 'package:flutter_todo_app_01/core/enums.dart';
 import 'package:flutter_todo_app_01/data/models/todo.dart';
 import 'package:flutter_todo_app_01/data/providers/db_provider.dart';
 import 'package:get/get.dart';
